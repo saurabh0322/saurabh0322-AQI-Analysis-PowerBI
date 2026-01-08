@@ -12,7 +12,7 @@ The dashboard provides insights into pollution levels, AQI categories, city-wise
 ---
 
 ## 📊 Dashboard Preview
-![AQI Index Analysis Dashboard](Images/AQI Analysis Dashboard.png)
+![AQI Index Analysis Dashboard](Images/dashboard_overview.png)
 
 ---
 
