@@ -67,7 +67,7 @@ AQI-Index-Analysis-PowerBI
 
 ---
 
-## 📌 Author
+## 📌 Created By
 **Saurabh**  
 B.Tech CSE (2022–2026)  
 Aspiring **Data Analyst**
